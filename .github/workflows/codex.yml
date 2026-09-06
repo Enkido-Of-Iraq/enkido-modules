@@ -1,1 +1,29 @@
+name: Codex task
 
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: Task for Codex to perform in this repository
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  codex:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Run Codex
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          permission-profile: ":workspace"
+          prompt: ${{ inputs.prompt }}
