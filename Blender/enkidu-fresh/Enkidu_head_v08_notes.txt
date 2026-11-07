@@ -1,0 +1,29 @@
+ENKIDU - SKETCH-FITTED HEAD STUDY, V08
+
+Current file: Enkidu_sketch_head_v08.blend
+Shape reference: concept-art/turnarounds/enkidu-head-turnaround-v1.png
+Colour reference: original exec-400a2b28-6e40-4b0b-98fc-ce9fdfb4f7ff.png
+Both reference images are packed in the Blender file.
+
+Changes
+- Reconstructed face, skull, jaw and neck using the front and profile sketch.
+- Sculpted blended nasal bridge, tip, alar wings, philtrum, lips and chin volumes.
+- Inset spherical eyes, iris geometry and continuous eyelid tissue joined to head.
+- Fine eyelashes, irregular eyebrow fibres and textured eye pigmentation.
+- New continuous ear surfaces with helix, antihelix, concha, tragus and lobule.
+- Editable strand groom with layered open S waves, short filler and flyaways.
+- Real skin subsurface, pore bump, roughness and original-reference colour.
+
+Viewing
+The file opens with the front comparison camera and material preview.
+Additional orthographic cameras: left-facing profile, right-facing profile,
+and three-quarter review. Left/right labels refer to nose direction on the page.
+The supplied sketch image is in its own viewport reference collection.
+The previous V04 head is preserved in a hidden collection.
+The pre-existing body and wardrobe remain in the file.
+
+Status
+This is an editable likeness study. It is not a scan or a final production asset.
+Profile shape, eyelid thickness and hair flow remain approximate interpretations.
+It is not rigged and does not yet have animation-ready facial retopology,
+a facial expression system, or a complete independent UV skin texture set.

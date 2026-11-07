@@ -1,0 +1,11 @@
+ENKIDU — WALK / RUN / JUMP / LAND / WALK
+
+13 seconds, 24 fps, frames 1–312.
+1–64: two slow steps. 65–100: accelerate. 101–136: faster running.
+137–152: gather, crouch, push off. 153–168: jump.
+169–184: touchdown and soft knee compression/recovery. 185–312: return to walking.
+
+Character travels forward along -Y; follow camera and studio lights move with him.
+The timeline repeats the whole sequence, returning to the route start on replay.
+Space plays/pauses. The original slow walk action is preserved, as is the original v14 file.
+No facial animation or cloth simulation is added. This is an editable body animation on the existing character rig.

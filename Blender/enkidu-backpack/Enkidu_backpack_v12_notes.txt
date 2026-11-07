@@ -1,0 +1,28 @@
+ENKIDU — BACKPACK / V12
+
+Reference: the four-view backpack sketch supplied in this chat, exec-a2165755-2984-43f5-bf48-4672c7e39661.png. A packed copy is included in the Blender files.
+
+DELIVERABLES
+Enkidu_backpack_sketch_v12.blend — full character with rebuilt backpack, prior backpack preserved in a disabled collection, isolated backpack review scene and separate worn-fit review scene.
+Enkidu_backpack_standalone_v12.blend — backpack, procedural materials, reference, studio lights and review cameras. The character is not included.
+
+CONSTRUCTION
+01. Soft tapered hollow canvas shell, approximately 22 cm wide, 12–13 cm deep and 31 cm high, scaled to the existing character. Rounded base and localized lower-face compression folds.
+02. Separate rounded fold-over flap, rolled edge binding, individual edge stitches and short loose fibres. The FLAP CONTROL empty can rotate around its local X axis; approximately 120 degrees raises the flap for inspection. This is a rigid inspection control, not a cloth simulation.
+03. Single rounded canvas closure tab and aged brass button. The closed outer view determines the fastening; the duplicated tabs in the sketch's open view are interpreted as one coherent closure.
+04. Flat woven shoulder straps fitted around the character, with seam stitches placed against the evaluated fabric surface.
+05. Rounded rectangular brass adjusters, center bars and separate webbing return pieces.
+06. Reinforced lower anchor tabs with box-and-cross stitching.
+07. Sewn side gussets with soft vertical creases.
+08. Reinforced base strip, perimeter stitching, rubbed fabric tones and sparse fraying.
+09. Bound compartment mouth with actual fabric thickness and darker inner lining.
+10. Narrow folded webbing carry loop with stitched edges.
+
+MATERIALS
+Procedural brown canvas, warp/weft relief and yarn color variation, localized edge fading, dark lining, flax thread and worn brass. These materials render natively in Blender. They have not been baked into game-engine texture maps.
+
+REVIEW
+Checked isolated outer, body-side, side, open and detail renders and a separate fit render on the character. This is a detailed modeling interpretation of the sketch, not a scan. Fabric wear is restrained and does not reproduce every drawn mark. The existing head and body were retained. No character rig, cloth simulation, or game-ready retopology was added.
+
+BACKUP
+The incoming live scene, including its unsaved state, was saved before editing to character-3d/enkidu-fresh/Enkidu_before_backpack_v12.blend. The earlier v11 project was not overwritten.

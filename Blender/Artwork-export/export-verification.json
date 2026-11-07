@@ -1,0 +1,46 @@
+{
+  "fbx": "/Users/abbasmamoori/Documents/ChatGPT/New project/character-3d/Artwork-export/Artwork.fbx",
+  "fps": 24,
+  "frames": [
+    1,
+    312
+  ],
+  "duration_seconds": 13,
+  "export_meshes": 140,
+  "import_meshes": 140,
+  "import_bones": 60,
+  "has_animation": true,
+  "sampled_frames": [
+    1,
+    33,
+    101,
+    153,
+    161,
+    169,
+    175,
+    185,
+    312
+  ],
+  "maximum_bone_position_error_metres": 8.694115668224222e-06,
+  "procedural_materials_approximated": [
+    "ANIM \u2022 V12 \u2022 sun faded brown canvas",
+    "ANIM \u2022 V12 \u2022 dark cotton inner lining.001",
+    "ANIM \u2022 V12 \u2022 worn brass buttons and adjusters.001",
+    "ANIM \u2022 V09 \u2022 worn brown twill",
+    "ANIM \u2022 V09 \u2022 faded dusty blue cotton",
+    "ANIM \u2022 V09 \u2022 dirt stained rubber foxing",
+    "ANIM \u2022 V08 \u2022 reference coloured eyes, moist surface",
+    "ANIM \u2022 V12 \u2022 dense flat cotton webbing.001",
+    "ANIM \u2022 V05 \u2022 olive skin, pores and subsurface",
+    "ANIM \u2022 V12 \u2022 dark cotton inner lining",
+    "ANIM \u2022 V09 \u2022 faded knee patch twill",
+    "ANIM \u2022 V05 \u2022 coloured face, geometry follows sketch",
+    "ANIM \u2022 V09 \u2022 dusty grey canvas sneaker",
+    "ANIM \u2022 V09 \u2022 aged cream cotton stitching",
+    "ANIM \u2022 V12 \u2022 dense flat cotton webbing",
+    "ANIM \u2022 V12 \u2022 worn brass buttons and adjusters",
+    "ANIM \u2022 V09 \u2022 exposed faded cotton fibres"
+  ],
+  "import_time_offset": 0,
+  "verified": true
+}

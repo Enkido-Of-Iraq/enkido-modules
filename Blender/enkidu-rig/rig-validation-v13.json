@@ -1,0 +1,25 @@
+{
+  "weighted_objects": 86,
+  "rigid_objects": 53,
+  "weighted_vertices": 163972,
+  "bones": 60,
+  "deform_bones": 51,
+  "unbound": [],
+  "weight_errors": 0,
+  "neutral_joint_error": {
+    "L": 0.00013863092808740794,
+    "R": 0.00013862541929488727
+  },
+  "final_weight_errors": 0,
+  "max_influences": 4,
+  "root_motion_max_error_m": 7.570684489943674e-08,
+  "checked_poses": [
+    1,
+    24,
+    48,
+    72
+  ],
+  "foot_contact_neutral_min_z_m": 0.006014,
+  "ground_z_m": 0.004,
+  "max_test_ik_error_m": 1.03e-05
+}

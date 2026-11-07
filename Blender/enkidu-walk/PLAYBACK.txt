@@ -1,0 +1,11 @@
+ENKIDU — SLOW WALK V14
+
+Open Enkidu_slow_walk_v14.blend. Press Space with the pointer over the viewport or timeline to play/pause.
+
+The active walk loops in place over frames 1–64 at 24 fps: 2.67 seconds per cycle, approximately 45 steps per minute. Frame 65 is an identical endpoint and is excluded from playback. All animation channels repeat beyond the keyed range.
+
+Includes alternating foot placement, heel/toe roll, grounded soles, subtle pelvis rise and sway, opposite arm swing, relaxed finger poses, head stabilization and slight backpack lag. The prior rig-check action is retained.
+
+Animate the root control separately to make the character travel through a scene. The current action intentionally stays in one location for continuous preview and reuse.
+
+The viewport uses lower subdivision for playback; full subdivision remains enabled for final renders. The existing model/rig still has simplified anatomy and clothing, so larger actions may require corrective work.

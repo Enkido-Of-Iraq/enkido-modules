@@ -1,0 +1,37 @@
+ENKIDU — COMBINED CHARACTER + BACKPACK RIG V13
+
+Open Enkidu_character_backpack_rig_v13.blend in Blender.
+One scene contains the latest head, clothing, shoes, backpack, animation skeleton, cameras and lit ground plane. Earlier source files are preserved separately.
+
+HOW TO ANIMATE
+Select ENKIDU_RIG and use Pose Mode.
+- root: move/rotate the whole character.
+- pelvis, spine, chest, neck, head: body and head posing.
+- foot_ik.L / foot_ik.R: place the feet. knee_pole.L / R: steer knee direction.
+- clavicle, upper_arm, forearm, hand: rotate the arms directly.
+- index, middle, ring, pinky and thumb bones: finger posing.
+- backpack: secondary bag rotation relative to the chest.
+- backpack_flap: open/close the bag's flap.
+
+Rig custom properties “Leg IK L/R” and “Arm IK L/R” blend IK influence from 0 to 1. Legs start in IK; arms start in FK. For arm IK, move hand_ik and elbow_pole. Switch at the neutral pose: automatic IK/FK pose matching is not included. L/R refer to the character's anatomical left/right.
+
+POSE-CHECK ACTION
+“Enkidu • rig verification poses” is active.
+Frame 1: neutral.
+Frame 24: raised-foot step, knee and clothing test.
+Frame 48: arm reach, torso/head turn and finger curl.
+Frame 72: neutral.
+Press Space over the viewport/timeline to inspect the sequence. This is a rig test, not a finished walk cycle. Create a new Action when starting production animation.
+
+CONTENTS
+60 bones, including 51 deform bones.
+86 weighted mesh objects; 53 rigid bone attachments.
+Backpack panels follow the chest through the backpack bone. The flap has its own bone. Shoulder straps and their stitches have blended torso/shoulder/backpack weights.
+All visible parts are attached. Normalized weights and IK endpoint tracking were checked. Mesh materials use stored rest-space coordinates to keep procedural textures from sliding in poses.
+
+LIMITS
+This is an animation starter rig on the existing character geometry. Extreme poses may need corrective shapes or weight refinement because the original anatomy and garment topology are simplified. No facial expression rig, cloth simulation, automatic secondary motion, or game-engine texture baking is included.
+
+SOURCE VERSIONS
+Head V08; clothing/body V11; backpack V12.
+The incoming live file was backed up before rigging as ../enkidu-backpack/Enkidu_before_rig_v13.blend.

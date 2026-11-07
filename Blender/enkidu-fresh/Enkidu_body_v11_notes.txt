@@ -1,0 +1,26 @@
+ENKIDU BODY STUDY - V11
+Current file: Enkidu_body_sketch_v11.blend
+Reference: enkidu-body-turnaround-v1.png (packed in the file).
+The prior head V08 is retained. Previous garments are preserved hidden.
+
+Modeled detail
+- Cotton shirt surface with connected sleeve joins, fabric thickness and ribbed collar.
+- Shirt tears, small frayed fibres, lower-left hand-sewn repair and hem stitching.
+- Loose trousers with compressed ankle folds, side seams and raised right knee patch.
+- Individual uneven patch stitches following the trouser surface.
+- Canvas sneaker uppers, tongues, rubber toe guards, layered sidewalls/outsoles,
+  metal eyelets, crossed cotton laces, bows and small rubber scuffs.
+- Canvas backpack body, fitted flap/pocket, panel seams, straps and brass adjusters.
+
+Material detail
+Faded dusty-blue cotton, brown twill, worn grey canvas, dirty rubber, cream thread,
+aged brass, fine fabric bump, colour fading and irregular fine dust speckling.
+
+Review cameras
+V09 full body, full profile, shoe detail and clothing repair detail.
+Final preview images use the v11 suffix.
+
+Status
+This is an editable character study. Cloth drape, hands and overall likeness are
+still simplified; visible damage is interpreted from the drawing, not an exact
+reproduction of every mark. It is not rigged or animation-retopologized.
