@@ -1,0 +1,1 @@
+walkDistance=1.041433 runDistance=2.669161 stoppedSpeed=0 grounded=True animations=1 result=PASS

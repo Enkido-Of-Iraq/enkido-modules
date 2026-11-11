@@ -1,0 +1,13 @@
+Enkidu riding Anzu — quadruped rebuild v05
+192 frames / 24fps / 8 seconds / 1000x1000 H264.
+Rebuilt long torso, four weight-bearing legs, unified lioness muzzle,
+recessed eyes, forward horns, beard, layered feather mantle and wings.
+Four continuous weighted leg meshes replace rigid disconnected parts.
+Enkidu refitted to narrower saddle; knees bent, wings moved behind legs.
+Three-foot support slow gait; world forward -Y, root height fixed.
+Head, wing and tail secondary motion. Following three-quarter camera.
+Review: first and midpoint frames inspected; numerical checks confirm
+horizontal root travel and contact/lift ankle heights. Creature remains
+stylized: not a photoreal or exact reference reproduction. Knee skin may
+pinch during bending; detailed feather barbs and facial sculpt need more work.
+Original source versions remain preserved and hidden in the scene.
