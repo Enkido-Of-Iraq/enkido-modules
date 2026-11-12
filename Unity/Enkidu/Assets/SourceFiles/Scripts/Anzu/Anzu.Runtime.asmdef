@@ -1,0 +1,5 @@
+{
+  "name": "Anzu.Runtime",
+  "references": ["Unity.InputSystem", "Unity.Cinemachine"],
+  "autoReferenced": true
+}

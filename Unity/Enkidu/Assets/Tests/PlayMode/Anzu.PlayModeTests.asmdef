@@ -1,0 +1,5 @@
+{
+  "name": "Anzu.PlayModeTests",
+  "references": ["Anzu.Runtime", "Unity.InputSystem", "Unity.Cinemachine"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

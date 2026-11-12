@@ -1,0 +1,6 @@
+{
+  "name": "Anzu.EditModeTests",
+  "references": ["Anzu.Runtime", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"]
+}
