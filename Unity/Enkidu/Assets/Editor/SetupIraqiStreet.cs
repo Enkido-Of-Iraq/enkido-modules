@@ -107,6 +107,12 @@ public static class SetupIraqiStreet
         if (mounted == null)
             throw new InvalidOperationException("The mounted Enkidu and Anzu character is missing from the source scene.");
 
+        var rider = Array.Find(mounted.GetComponentsInChildren<Transform>(true),
+            part => part.name == "ENKIDU_RIG");
+        if (rider == null)
+            throw new InvalidOperationException("The Enkidu rider rig is missing from the mounted character.");
+        rider.gameObject.SetActive(true);
+
         var mobileControls = GameObject.Find("Mounted Mobile Controls");
         if (mobileControls != null && mobileControls.GetComponent<MobileControlsVisibility>() == null)
             mobileControls.AddComponent<MobileControlsVisibility>();
